@@ -1,0 +1,65 @@
+body {
+	background-color: rgb(223, 218, 218);
+}
+
+.subtitle {
+	display: flex;
+	justify-content: center;
+	font-size: x-large;
+	margin-bottom: 5%;
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+}
+
+h3 {
+	color: rgb(7, 7, 55);
+}
+.title {
+	display: flex;
+	justify-content: center;
+	font-size: x-large;
+	margin-bottom: 5%;
+}
+.container1 {
+	width: 50%;
+	height: 20%;
+	border: 1em, black;
+	float: left;
+}
+
+.container2 {
+	width: 50%;
+	height: 20%;
+	float: right;
+}
+.totalScores {
+	margin-left: 30%;
+}
+.indScores {
+	margin-left: 50%;
+}
+
+.but {
+	height: 80px;
+	width: 120px;
+	background-color: rgb(162, 164, 164);
+	margin-right: 30px;
+	border-radius: 12px;
+}
+.gif {
+	margin-left: 40%;
+}
+.totWinner {
+	display: flex;
+	justify-content: center;
+	font-size: x-large;
+	margin-bottom: 5%;
+}
+
+.container3 {
+	display: grid;
+	margin-top: 10%;
+}
